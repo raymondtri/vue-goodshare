@@ -39,6 +39,7 @@ import VueGoodshareOdnoklassniki from "./providers/Odnoklassniki.vue";
 import VueGoodshareFacebook from "./providers/Facebook.vue";
 import VueGoodshareMoiMir from "./providers/MoiMir.vue";
 import VueGoodshareTwitter from "./providers/Twitter.vue";
+import VueGoodshareX from "./providers/X.vue";
 import VueGoodshareLiveJournal from "./providers/LiveJournal.vue";
 import VueGoodshareLinkedIn from "./providers/LinkedIn.vue";
 import VueGoodshareTumblr from "./providers/Tumblr.vue";
@@ -74,6 +75,7 @@ export default {
     VueGoodsharePinterest,
     VueGoodshareReddit,
     VueGoodshareTwitter,
+    VueGoodshareX,
     VueGoodshareTelegram,
     VueGoodshareViber,
     VueGoodshareWhatsApp,
